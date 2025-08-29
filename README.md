@@ -6,7 +6,7 @@ Quer entrar em contato comigo? Mande um email para bernardo.bazareli@gmail.com :
 
 ## Hi! 👋
 My name is Bernardo Vassão, I am currently a student pursuing a Bachelor's degree in Information Systems at Universidade Federal do Rio Grande (FURG).<br>
-I am currently in the third semester of the course. <br>
+I am currently in the fourth semester of the course. <br>
 I am interested in back-end development, data engineering and artificial intelligence. <br>
 Want to get in touch with me? Send an email to bernardo.bazareli@gmail.com :)
 
