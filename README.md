@@ -1,6 +1,6 @@
 # Olá! 👋
 Meu nome é Bernardo Vassão, curso bacharel em Sistemas de Informação na Universidade Federal do Rio Grande (FURG). <br>
-Atualmente, estou no terceiro semestre do curso. <br>
+Atualmente, estou no quarto semestre do curso. <br>
 Tenho interesse em desenvolvimento back-end, engenharia de dados e inteligência artificial. <br>
 Quer entrar em contato comigo? Mande um email para bernardo.bazareli@gmail.com :)
 
